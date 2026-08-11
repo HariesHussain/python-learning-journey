@@ -1,3 +1,4 @@
+#Program to check whether the input character is an alphabet, digit or special character
 a = input("Enter a Character :")
 if (a.isalpha()):
     print("Alphabet")

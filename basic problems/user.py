@@ -1,3 +1,4 @@
+#Program to check whether the input character is an uppercase letter, lowercase letter, digit or special character
 a = input("Enter a characcter a: ")
 if a.isupper():
      print("Uppercase")

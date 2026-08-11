@@ -1,3 +1,4 @@
+#Program to check whether the input angles form a valid triangle and classify the triangle based on its angles
 a = int(input("Enter the angle a:"))
 b = int(input("Enter the angle b:"))
 c = int(input("Enter the angle c:"))

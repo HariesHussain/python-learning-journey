@@ -1,3 +1,4 @@
+#Program to check whether the roots of a quadratic equation are real and distinct, real and equal or imaginary
 a = int(input("Ennter the integer a:"))
 b = int(input("Enter the integer b:"))
 c = int(input("Enter the integer c:"))

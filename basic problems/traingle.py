@@ -1,3 +1,4 @@
+#Program to check whether the given sides form a valid triangle or not
 a = int(input("Enter a number a: "))
 b = int(input("Enter a number b: "))
 c = int(input("Enter a number c: "))

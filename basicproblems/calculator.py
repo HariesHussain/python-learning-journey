@@ -1,0 +1,8 @@
+a = int(input("enter your first digit:"))
+b = int(input("enter your second digit:"))
+print('the addition of' ,a , 'and', b , 'is' , a + b  )
+print('the substraction of' ,a , 'and', b , 'is' , a - b  )
+print('the division of' ,a , 'and', b , 'is' , a / b  )
+print('the modulus of' ,a , 'and', b , 'is' , a % b  )
+print('the floor division of' ,a , 'and', b , 'is' , a // b  )
+print('the exponential of' ,a , 'and', b , 'is' , a ** b  )
